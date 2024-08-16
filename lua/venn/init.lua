@@ -6,7 +6,7 @@ if vim.g.venn_debug then
 end
 
 local arrow_chars = {
-  up = '▲', down = '▼', left = '◄', right = '►',
+  up = '▲', down = '▼', left = '◀', right = '▶',
 }
 
 local charset = {
